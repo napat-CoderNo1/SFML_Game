@@ -1,0 +1,81 @@
+﻿  Boss1.cpp
+  Source.cpp
+C:\Users\NAPAT\Desktop\SURAJ SFML\learn suraj\learn suraj\PauseButton.h(3,1): warning C4005: 'MAX_ITEMS': macro redefinition
+C:\Users\NAPAT\Desktop\SURAJ SFML\learn suraj\learn suraj\Menu.h(3): message : see previous definition of 'MAX_ITEMS'
+C:\Users\NAPAT\Desktop\SURAJ SFML\learn suraj\learn suraj\Source.cpp(46,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\NAPAT\Desktop\SURAJ SFML\learn suraj\learn suraj\Source.cpp(338,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\NAPAT\Desktop\SURAJ SFML\learn suraj\learn suraj\Source.cpp(338,28): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\NAPAT\Desktop\SURAJ SFML\learn suraj\learn suraj\Source.cpp(340,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\NAPAT\Desktop\SURAJ SFML\learn suraj\learn suraj\Source.cpp(340,36): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\NAPAT\Desktop\SURAJ SFML\learn suraj\learn suraj\Source.cpp(466,65): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\NAPAT\Desktop\SURAJ SFML\learn suraj\learn suraj\Source.cpp(468,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\NAPAT\Desktop\SURAJ SFML\learn suraj\learn suraj\Source.cpp(468,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\NAPAT\Desktop\SURAJ SFML\learn suraj\learn suraj\Source.cpp(480,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\NAPAT\Desktop\SURAJ SFML\learn suraj\learn suraj\Source.cpp(768,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\NAPAT\Desktop\SURAJ SFML\learn suraj\learn suraj\Source.cpp(779,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\NAPAT\Desktop\SURAJ SFML\learn suraj\learn suraj\Source.cpp(800,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\NAPAT\Desktop\SURAJ SFML\learn suraj\learn suraj\Source.cpp(811,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\NAPAT\Desktop\SURAJ SFML\learn suraj\learn suraj\Source.cpp(816,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\NAPAT\Desktop\SURAJ SFML\learn suraj\learn suraj\Source.cpp(1019,63): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\NAPAT\Desktop\SURAJ SFML\learn suraj\learn suraj\Source.cpp(1064,55): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\NAPAT\Desktop\SURAJ SFML\learn suraj\learn suraj\Source.cpp(1083,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\NAPAT\Desktop\SURAJ SFML\learn suraj\learn suraj\Source.cpp(1816,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\NAPAT\Desktop\SURAJ SFML\learn suraj\learn suraj\Source.cpp(1816,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  learn suraj.vcxproj -> C:\Users\NAPAT\Desktop\SURAJ SFML\learn suraj\x64\Debug\learn suraj.exe
